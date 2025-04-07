@@ -5,13 +5,18 @@ githubIssues:
   - "05"
   - "10"
   - "16"
-modified: Apr 05, 2025 1:13 pm
+modified: Apr 07, 2025 7:46 am
 tags: [needsRevision]
 ---
 
 # Zypherians
 
 #needsRevision
+ - Needs to be reviewed
+ - Needs summary for pre-alpha release
+ - PbtA moves need to be evaluated and pared down
+
+> [!NOTE] This note was translated by AI
 
 > [!abstract]- Original ideas
 > 
