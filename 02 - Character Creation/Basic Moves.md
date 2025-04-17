@@ -39,6 +39,13 @@ On a 6-, your attempt to disrupt the known conventions fails and upsets powerful
 
 ### **Make A Statement** ( +Expressive )
 
+When you make a speech, unveil artwork or challenge an untruth; name aloud what opinion or truth you want acknowleged, and by whom. Roll 2d6+ Expressive.
+
+On a 10+ your statement is heard, and minds are moved.
+On a 7 to 9 your statement is heard, but was already known to the audience; you are acknowleged, and now expected to be quiet; you are tasked with solving the problem. 
+On a 6- your attempt to disrupt the known conventions fails and upsets powerful people.
+
+
 ### **Use Technology** ( +Scientific )
 
 To utilize hardware or software to resolve a challenge, name aloud FICTION FIRST. Roll 2d6 + Scientific.
@@ -49,9 +56,22 @@ On a 6-, your attempt to manipulate tech fails and NEGATIVE OUTCOME.
 
 ### **Understand A System** ( +Scientific )
 
+When you try to understand or model a complex system, talk aloud as your character thinks. Roll 2d6+Scientific.
+
+On a 10+, you successfully know the major stakeholders and links
+On a 7 to 9, you grasp the system, but you miss an unintended consequence, why a stakeholder is odd, or an upcoming change.
+On a 6-, you only think you understand the system.
+
+
 ### **Tough It Out** ( +Relentless )
 
 ### **Resort To Violence** ( +Relentless)
+
+To Resort to Violence, name aloud what you are trying to achieve. Establish the stakes, and who can harm who with what. Roll 2d6+Relentless
+
+On a 10+ take harm and deliver harm as agreed, but achieve your objective  
+On a 7 to 9+ As 10+, but you harm something/someone else too, make an enemy, or take more harm then expected
+on a 6- You fail to achieve the objective, and now a lot of people are very angry.
 
 ### **Mediate A Conflict** ( +Charming )
 
