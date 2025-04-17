@@ -3,7 +3,7 @@ created: Mar 21, 2025 8:04 am
 githubIssues:
   - "01"
   - "17"
-modified: Apr 03, 2025 12:21 pm
+modified: Apr 17, 2025 4:06 pm
 tags: [needsWriting]
 ---
 
@@ -39,12 +39,11 @@ On a 6-, your attempt to disrupt the known conventions fails and upsets powerful
 
 ### **Make A Statement** ( +Expressive )
 
-When you make a speech, unveil artwork or challenge an untruth; name aloud what opinion or truth you want acknowleged, and by whom. Roll 2d6+ Expressive.
+When you make a speech, unveil artwork or challenge an untruth; name aloud what opinion or truth you want acknowledged, and by whom. Roll 2d6+ Expressive.
 
 On a 10+ your statement is heard, and minds are moved.
-On a 7 to 9 your statement is heard, but was already known to the audience; you are acknowleged, and now expected to be quiet; you are tasked with solving the problem. 
+On a 7 to 9 your statement is heard, but was already known to the audience; you are acknowledged, and now expected to be quiet; you are tasked with solving the problem. 
 On a 6- your attempt to disrupt the known conventions fails and upsets powerful people.
-
 
 ### **Use Technology** ( +Scientific )
 
@@ -61,7 +60,6 @@ When you try to understand or model a complex system, talk aloud as your charact
 On a 10+, you successfully know the major stakeholders and links
 On a 7 to 9, you grasp the system, but you miss an unintended consequence, why a stakeholder is odd, or an upcoming change.
 On a 6-, you only think you understand the system.
-
 
 ### **Tough It Out** ( +Relentless )
 
